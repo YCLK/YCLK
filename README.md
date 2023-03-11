@@ -1,18 +1,10 @@
-<h3 align="center">Hi there 👋</h3>
+## 🌠 Hi there!
+> 프론트엔드 개발자를 지망하고 있는 학생입니다! 🙈
 
-<h3 align="center">I'm Interested In</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
-<p>
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
-<h3 align="center">Follow Me</h3>
-<p align="center">
-<!--  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
-  <a href="https://www.instagram.com/luke0619_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luke0619_/"/></a>&nbsp
-  <a href="mailto:contact.yclk@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=contact.yclk@gmail.com"/></a>
-</p>
+## 👋 Contact
+<a href="https://yclk.tistory.com/"><img src="https://img.shields.io/badge/Blog-313131?style=for-the-badge&logo=Tistory&logoColor=white&link=https://yclk.tistory.com"/></a><a href="https://www.instagram.com/luke0619_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luke0619_/"/></a><a href="mailto:contact.yclk@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=contact.yclk@gmail.com"/></a>
 
 <!--
 **YCLK/YCLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
