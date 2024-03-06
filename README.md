@@ -6,7 +6,7 @@
 ## 👋 Contact
 > 저는 아래와 같은 SNS를 하고 있어요!
 > 
-<a href="https://yclk.tistory.com/"><img src="https://img.shields.io/badge/Blog-313131?style=for-the-badge&logo=Tistory&logoColor=white&link=https://yclk.tistory.com"/></a><!--<a href="https://www.instagram.com/luke0619_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luke0619_/"/>--></a><a href="mailto:contact.yclk@gmail.com"><img src="https://img.shields.io/badge/contact.yclk@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=contact.yclk@gmail.com"/></a>
+<a href="https://blog.yclk.me/"><img src="https://img.shields.io/badge/Blog-313131?style=for-the-badge&logo=Tistory&logoColor=white&link=https://blog.yclk.me"/></a><!--<a href="https://www.instagram.com/luke0619_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luke0619_/"/>--></a><a href="mailto:contact.yclk@gmail.com"><img src="https://img.shields.io/badge/contact.yclk@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=contact.yclk@gmail.com"/></a>
 
 <!--
 **YCLK/YCLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
